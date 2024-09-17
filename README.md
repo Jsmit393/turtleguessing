@@ -1,4 +1,4 @@
-# turtleguessing
+# Turtle Guessing Game
 
 ## Description
 This project is a Java-based turtle guessing game where users have to guess the x and y coordinates of a hidden turtle in a 500x500 grid. The program provides feedback based on whether the guess is too high or too low, and it draws lines across the grid to help guide the user.
